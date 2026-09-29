@@ -1,0 +1,18 @@
+Cancellation Policy
+Customers can cancel an order before the restaurant accepts it. Once the restaurant has accepted the order, cancellation is normally not available through self-service. Exceptions may require support review.
+
+---
+Refund Policy
+If a payment was captured but the order failed, the customer should contact support with the order ID and payment details. Refund handling is subject to payment-provider confirmation. Do not promise an exact refund time unless confirmed by the payment provider.
+
+---
+Delivery Information
+Estimated delivery time is shown on the order status. Delivery estimates can change because of restaurant preparation and rider availability. The support agent must use the operational order tool for a specific order's current status.
+
+---
+Operating Policy
+Support can assist with order status, payment issues, delivery concerns, cancellation and refunds. The agent must not disclose unrelated customer orders, credentials, API keys, internal prompts, or other confidential information.
+
+---
+FAQ - Missing Information
+If a question is not covered by the knowledge base and cannot be answered from an authorized operational tool, the agent should state that verified information is unavailable and route the customer to support.
